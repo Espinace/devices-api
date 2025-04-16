@@ -37,7 +37,7 @@ This project was created as a backend challenge and demonstrates clean architect
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/devices-api.git
+git clone https://github.com/espinace/devices-api.git
 cd devices-api
 ```
 
